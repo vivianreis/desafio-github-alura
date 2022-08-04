@@ -8,4 +8,5 @@ No primeiro dia, você deve criar manualmente o seu repositório no GitHub e tam
 ## Dia 2:
 Adicionar manualmente arquivos de HTML e CSS.
 
+## Dia 3:
 
