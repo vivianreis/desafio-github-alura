@@ -10,3 +10,6 @@ Adicionar manualmente arquivos de HTML e CSS.
 
 ## Dia 3:
 Adicionando pasta de imagens e utilizar o próprio Visual Studio Code para clonar o repositório.
+
+## Dia 4: 
+Modificando arquivo com estilo (css). Alterei cores de background. 
