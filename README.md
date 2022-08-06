@@ -9,4 +9,4 @@ No primeiro dia, você deve criar manualmente o seu repositório no GitHub e tam
 Adicionar manualmente arquivos de HTML e CSS.
 
 ## Dia 3:
-
+Adicionando pasta de imagens e utilizar o próprio Visual Studio Code para clonar o repositório.
